@@ -1,0 +1,11 @@
+# Ignore ipynb checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+#Ignore .csv files
+*.csv
+
+
+#Ignore .png files
+*.png
+
