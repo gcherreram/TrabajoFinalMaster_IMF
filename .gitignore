@@ -9,3 +9,6 @@
 #Ignore .png files
 *.png
 
+#Ignore .png files
+*.xlsx
+
